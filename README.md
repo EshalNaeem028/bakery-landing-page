@@ -1,6 +1,6 @@
 # Bakery Landing Page
 
-A simple bakery landing page built using HTML5 as part of my web development learning journey. This project focuses on creating a well-structured webpage using semantic HTML elements while organizing content in a clear and user-friendly layout.
+A simple bakery landing page built using **HTML** and **CSS** as part of my web development learning journey. This project focuses on creating a clean, responsive, and visually appealing webpage while practicing semantic HTML and CSS styling.
 
 ## Features
 
@@ -9,12 +9,31 @@ A simple bakery landing page built using HTML5 as part of my web development lea
 - Featured bakery products
 - About section
 - Contact section
-- Footer
+- Custom styling with CSS
+- Responsive layout 
 
 ## Technologies Used
 
 - HTML5
+- CSS3
+
+## Project Structure
+
+```
+Bakery-Landing-Page/
+│── index.html
+│── README.md
+```
 
 ## Purpose
 
-This project was created to practice fundamental HTML concepts and strengthen my understanding of webpage structure before learning CSS and JavaScript.
+This project was created to strengthen my understanding of:
+- Semantic HTML
+- CSS styling and layout
+- Structuring a landing page
+- Building real-world beginner web development projects
+
+## Author
+
+**Eshal Naeem Raja**
+
