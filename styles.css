@@ -1,0 +1,103 @@
+
+
+        h3{
+            color: #2e1304;
+            font-family: 'Playfair Display SC';
+            font-size: 50px;
+            text-align: center;
+            text-transform:uppercase
+           
+
+        }
+        
+        nav a{
+            color:#4a1f04;
+            font-family: 'Poppins';
+            font-size: 30px;
+            
+        }
+        nav ul{
+            list-style-type:none;
+            justify-content:center;
+            display: flex;
+            gap: 20px;
+        }
+        img{
+          display:block;
+            margin-left:auto;
+            margin-right:auto;
+            margin-top: 30px;
+            width:400px;
+            height:auto;
+            display:flex;
+        }
+            h2{
+            color: #2e1304;
+            font-family: 'Playfair Display SC';
+            font-size: 30px;
+            text-align: center;
+            text-transform:capitalize
+        }
+        p{
+            color: #4a1f04;
+            font-family: 'Poppins';
+            font-size: 25px;
+            text-align: center;
+            
+         }
+         dl{
+            color: #4a1f04;
+            font-family: 'Poppins';
+            font-size: 25px;
+           
+            
+         }
+         dt{
+            font-weight:bold;
+         }
+         dd{
+            margin-bottom: 10px;
+             text-align:justify;
+         }
+        .menu-gallery{
+            display:flex;
+            justify-content:center;
+            flex-wrap:wrap;
+            margin-top: 20px;}
+
+         .menu-gallery img{
+            width: 250px;
+            height: 250px;
+            object-fit:cover;
+            margin: 15px;
+            border-radius: 8px;
+         }
+         body{
+            background-color:burlywood;
+         }
+
+         .feature-card{
+            background-color:bisque;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         }
+         .features{
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+         }
+         li{
+            margin-bottom: 10px;
+            font-family: 'Poppins';
+            font-size: 20px;
+         }
+          h1{
+            color: #2e1304;
+            font-family: 'Playfair Display SC';
+            font-size: 50px;
+            text-align: center;
+            text-transform:capitalize
+        }
