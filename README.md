@@ -22,6 +22,7 @@ A simple bakery landing page built using **HTML** and **CSS** as part of my web 
 ```
 Bakery-Landing-Page/
 │── index.html
+│── styles.css
 │── README.md
 ```
 
