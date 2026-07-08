@@ -48,30 +48,20 @@
          dl{
             color: #4a1f04;
             font-family: 'Poppins';
-            font-size: 25px;
            
-            
-         }
+            font-weight: bold;
+           
+             }
          dt{
             font-weight:bold;
+            font-size: 30px;
          }
          dd{
             margin-bottom: 10px;
              text-align:justify;
+             font-size: 25px;
          }
-        .menu-gallery{
-            display:flex;
-            justify-content:center;
-            flex-wrap:wrap;
-            margin-top: 20px;}
-
-         .menu-gallery img{
-            width: 250px;
-            height: 250px;
-            object-fit:cover;
-            margin: 15px;
-            border-radius: 8px;
-         }
+       
          body{
             background-color:burlywood;
            
@@ -98,7 +88,7 @@
           h1{
             color: #2e1304;
             font-family: 'Playfair Display SC';
-            font-size: 50px;
+            font-size: 60px;
             text-align: center;
             text-transform:capitalize
         }
@@ -111,12 +101,9 @@
          text-align: center;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
-        .cakeImg{
-            display:flex;
-            justify-content:center;
-            margin-top: 20px;
+       
             
-        }
+        
          .muffins{
          background-color:rgb(186, 153, 109);
          border-radius:4px;
@@ -133,3 +120,4 @@
          text-align: center;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
+        
