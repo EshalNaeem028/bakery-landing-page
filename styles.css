@@ -165,4 +165,9 @@
 
              }
 
-             
+             .menu-muffins img{
+            display: block;
+            width: 210px;
+            height: auto;   
+
+             }
