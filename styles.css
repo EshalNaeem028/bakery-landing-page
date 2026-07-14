@@ -127,8 +127,8 @@
             margin: 45px;
             text-align: center;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            width: 600px;
-            height: 600px;
+            width: 400px;
+            height: 540px;
             margin-left:auto;
             margin-right:auto;
             margin-top: 30px;
@@ -142,3 +142,9 @@
             gap:30px;
             
          }
+
+         .menu-cake img{
+            display: block;
+            width: 210px;
+            height: auto;    
+             }
