@@ -193,3 +193,20 @@
             height: auto;
 
              }
+
+             .homepage{
+         background-color:rgb(186, 153, 109);
+         border-radius: 4 px;
+         padding: 10px;
+         margin: 10px;
+         text-align: center;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+             }
+
+             .homepage img{
+            display: block;
+            width: 400px;
+            height: auto;
+
+             }
