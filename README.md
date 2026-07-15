@@ -28,19 +28,27 @@ A responsive bakery website built using **HTML5** and **CSS3** as part of my web
 ```text
 Bakery-Landing-Page/
 │── images/
-│   ├── breads.jpg
-│   ├── cakes.webp
-│   ├── fudge.jpg
-│   ├── images.jpg
-│   └── pastries.webp
-│
+│   ├── bakery.jpg
+│   ├── banana.jpg
+│   ├── bg template.jpg
+│   ├── bg4.png
+│   ├── bg5.jpg
+│   ├── bg6.webp
+│   ├── chocolate-muffin.webp
+│   ├── imagesb.jpg
+│   ├── Picture1.jpg
+│   ├── Picture3.jpg
+│   ├── Picture4.png
+│   ├── Picture5.jpg
+│   ├── Picture6.png
+│   └── vanilla.jpg
 │── index.html
 │── menu.html
 │── about.html
 │── why.html
 │── contact.html
 │── styles.css
-│── README.md
+└── README.md
 ```
 
 ---
