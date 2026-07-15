@@ -207,7 +207,7 @@
 
              }
              .homepage{
-            background-color: #F9EFE1;
+            background-color: burlywood;
             border-radius: 10px;
             padding: 20px;
             margin: 45px;
@@ -283,6 +283,16 @@
             height: auto;
 
              }
-             
+             .homepage h3{
+               margin-bottom: auto;
+             }
+             .homepage p{
+               margin-top:0px;
+               font-size:30px;
+             }
 
-             
+             .header h3{
+               font-size:50px;
+               color: #5C2E00;
+              font: weight 700px;
+             }
