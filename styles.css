@@ -227,7 +227,7 @@
             text-align: center;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             width: 400px;
-            height: 540px;
+            height: auto;
             margin-left:auto;
             margin-right:auto;
             margin-top: 30px;
@@ -248,7 +248,7 @@
             text-align: center;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             width: 400px;
-            height: 540px;
+            height: auto;
             margin-left:auto;
             margin-right:auto;
             margin-top: 30px;
@@ -258,7 +258,7 @@
              .Cupcake-img img{
             display:flex;
             width: 210px;
-            height: auto;
+            height: 400;
 
              }
 
@@ -270,7 +270,7 @@
             text-align: center;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             width: 400px;
-            height: 540px;
+            height: auto;
             margin-left:auto;
             margin-right:auto;
             margin-top: 30px;
