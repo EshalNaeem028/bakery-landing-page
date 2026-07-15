@@ -80,10 +80,10 @@
             justify-content: center;
             flex-wrap: wrap;
          }
-         li{
+         ul{
             margin-bottom: 10px;
             font-family: 'Poppins';
-            font-size: 20px;
+            font-size: 25px;
          }
           h1{
             color: #2e1304;
@@ -207,13 +207,82 @@
 
              }
              .homepage{
-            background-color: antiquewhite;
+            background-color: #F9EFE1;
             border-radius: 10px;
             padding: 20px;
             margin: 45px;
             
-            width: 2070px;
-          
+            width: auto;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap:30px;
+             }
 
+             .cake-img{
+               background-color:#FFE2BF;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 45px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            height: 540px;
+            margin-left:auto;
+            margin-right:auto;
+            margin-top: 30px;
+            margin-bottom:30px;
 
              }
+             .cake-img img{
+                display:flex;
+            width: 210px;
+            height: auto;
+             }
+
+             .Cupcake-img{
+            background-color:#FFE2BF;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 45px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            height: 540px;
+            margin-left:auto;
+            margin-right:auto;
+            margin-top: 30px;
+            margin-bottom:30px;
+
+             }
+             .Cupcake-img img{
+            display:flex;
+            width: 210px;
+            height: auto;
+
+             }
+
+           .donut-img{
+            background-color:#FFE2BF;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 45px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            height: 540px;
+            margin-left:auto;
+            margin-right:auto;
+            margin-top: 30px;
+            margin-bottom:30px;
+
+             }
+             .donut-img img{
+            display:flex;
+            width: 210px;
+            height: auto;
+
+             }
+             
+
+             
