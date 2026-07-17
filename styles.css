@@ -45,22 +45,7 @@
             text-align: center;
             
          }
-         dl{
-            color: #4a1f04;
-            font-family: 'Poppins';
-           
-            font-weight: bold;
-           
-             }
-         dt{
-            font-weight:bold;
-            font-size: 30px;
-         }
-         dd{
-            margin-bottom: 10px;
-             text-align:justify;
-             font-size: 25px;
-         }
+        
        
          body{
             background-color:burlywood;
